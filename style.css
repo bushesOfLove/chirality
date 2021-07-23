@@ -1,0 +1,46 @@
+.bold-big {
+    text-align: center;
+    font-weight: bold;
+    font-size: 53px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+    text-align: center;
+    font-weight: 100;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.foot {
+    text-align: right;
+    padding-right: 2%;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 380px;
+}
+
+.button {
+    border-radius: 35%;
+    background-color: #2a778f; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.normal {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
